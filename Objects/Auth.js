@@ -10,18 +10,18 @@ function discordServerAuthenticate(client_id, username) {
 // Objects
 // Discord Token Object
 var discordTokensObject = {
-    DiscordToken: '', // Your Auth Token (String) Goes HERE <------------
-    DiscordTokenBeta: '' // Your local/testing bot's auth (string) token goes HERE <------------ 
+    DiscordToken: 'OTM3Mjc2NTEyNzcwNjA5MTkz.YfZYxg.v54AygfmVlVSHvDfjwm9bLU2z6c', // Your Auth Token (String) Goes HERE <------------
+    DiscordTokenBeta: 'OTM3Mjc2NTEyNzcwNjA5MTkz.YfZYxg.v54AygfmVlVSHvDfjwm9bLU2z6c' // Your local/testing bot's auth (string) token goes HERE <------------ 
 }
 // WaldyBot User Objects
 var waldyBot = {
-  id: '328236947820773386',
-  username: 'WaldyBot',
+  id: '884044657774960710',
+  username: 'FamilyBot',
   discriminator: '5871'
 }
 var waldyBotBeta = {
-  id: '328950816868139019',
-  username: 'WaldyBot Beta',
+  id: '937276512770609193',
+  username: 'Family Beta',
   discriminator: '7163'
 }
 // Address Objects
